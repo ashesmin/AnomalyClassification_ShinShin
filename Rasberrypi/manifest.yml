@@ -1,0 +1,7 @@
+---
+declared-services: 
+applications:
+- name: hellomonitoring0
+  random-route: true
+  memory: 512M
+  services:
